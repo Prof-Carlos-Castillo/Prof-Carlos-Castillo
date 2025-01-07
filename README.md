@@ -18,7 +18,7 @@ Backend, Java, AWS, Kafka ...
 
 ⚡ Fun fact:
 -  Me gusta bailar en mis tiempos libres.
--  Me gusta jugar videojuegos (Survival, estrategía, plataforma, RPG, party games)
+-  Me gusta jugar videojuegos (Survival, estrategia, plataforma, RPG, party games)
 -  Me gusta jugar Volibol
 -  Me gusta tocar guitarra.
 
