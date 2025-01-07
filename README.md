@@ -9,12 +9,18 @@ Profesor de computación en universidad Tecmilenio
 ## 🚀 About Me
 10+ años como desarrollador 
 
-8+ años como instructor/profesor en computación
+10+ años como instructor/profesor en computación
 
 
 ## 🛠 Skills
-Java, Scala ...
+Backend, Java, AWS, Kafka ...
 
+
+⚡ Fun fact:
+-  Me gusta bailar en mis tiempos libres.
+-  Me gusta jugar videojuegos (Survival, estrategía, plataforma, RPG, party games)
+-  Me gusta jugar Volibol
+-  Me gusta tocar guitarra.
 
 <!--
 **Prof-Carlos-Castillo/Prof-Carlos-Castillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +34,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
